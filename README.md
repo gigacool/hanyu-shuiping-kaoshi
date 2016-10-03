@@ -11,5 +11,5 @@ CSV format is the following:
  * word classifiers are mentioned with *CL* note
 
 Future versions should include:
-* new data structures such as e.g. json.
-* translations in languages others than english
+* [x] new data structures such as e.g. json.
+* [ ] translations in languages others than english
