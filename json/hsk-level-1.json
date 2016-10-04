@@ -1,0 +1,1709 @@
+[
+  {
+    "id": 1,
+    "hanzi": "爱",
+    "pinyin": "ài",
+    "translations": [
+      "to love",
+      "affection",
+      "to be fond of",
+      "to like"
+    ]
+  },
+  {
+    "id": 2,
+    "hanzi": "八",
+    "pinyin": "bā",
+    "translations": [
+      "eight",
+      "8"
+    ]
+  },
+  {
+    "id": 3,
+    "hanzi": "爸爸",
+    "pinyin": "bà ba",
+    "translations": [
+      "(informal) father",
+      "CL:個|个",
+      "位[wèi]"
+    ]
+  },
+  {
+    "id": 4,
+    "hanzi": "杯子",
+    "pinyin": "bēi zi",
+    "translations": [
+      "cup",
+      "glass",
+      "CL:個|个",
+      "支",
+      "枝[zhī]"
+    ]
+  },
+  {
+    "id": 5,
+    "hanzi": "北京",
+    "pinyin": "Běi jīng",
+    "translations": [
+      "Beijing",
+      "capital of People's Republic of China",
+      "Peking",
+      "PRC government"
+    ]
+  },
+  {
+    "id": 6,
+    "hanzi": "本",
+    "pinyin": "běn",
+    "translations": [
+      "roots or stems of plants",
+      "origin",
+      "source",
+      "this",
+      "the current",
+      "root",
+      "foundation",
+      "basis",
+      "classifier for books",
+      "periodicals",
+      "files etc",
+      "originally"
+    ]
+  },
+  {
+    "id": 7,
+    "hanzi": "不客气",
+    "pinyin": "bù kè qi",
+    "translations": [
+      "you're welcome",
+      "impolite",
+      "rude",
+      "blunt",
+      "don't mention it"
+    ]
+  },
+  {
+    "id": 8,
+    "hanzi": "不",
+    "pinyin": "bù",
+    "translations": [
+      "(negative prefix)",
+      "not",
+      "no"
+    ]
+  },
+  {
+    "id": 9,
+    "hanzi": "菜",
+    "pinyin": "cài",
+    "translations": [
+      "dish (type of food)",
+      "vegetables",
+      "vegetable",
+      "cuisine",
+      "CL:盤|盘",
+      "道[dào]"
+    ]
+  },
+  {
+    "id": 10,
+    "hanzi": "茶",
+    "pinyin": "chá",
+    "translations": [
+      "tea",
+      "tea plant",
+      "CL:杯",
+      "壺|壶[hú]"
+    ]
+  },
+  {
+    "id": 11,
+    "hanzi": "吃",
+    "pinyin": "chī",
+    "translations": [
+      "to eat",
+      "to consume",
+      "to eat at (a cafeteria etc)",
+      "to eradicate",
+      "to destroy",
+      "to absorb",
+      "to suffer"
+    ]
+  },
+  {
+    "id": 12,
+    "hanzi": "出租车",
+    "pinyin": "chū zū chē",
+    "translations": [
+      "taxi",
+      "(Taiwan) rental car"
+    ]
+  },
+  {
+    "id": 13,
+    "hanzi": "打电话",
+    "pinyin": "dǎ diàn huà",
+    "translations": [
+      "to make a telephone call"
+    ]
+  },
+  {
+    "id": 14,
+    "hanzi": "大",
+    "pinyin": "dà",
+    "translations": [
+      "big",
+      "huge",
+      "large",
+      "major",
+      "great",
+      "wide",
+      "deep",
+      "oldest",
+      "eldest"
+    ]
+  },
+  {
+    "id": 15,
+    "hanzi": "的",
+    "pinyin": "de",
+    "translations": [
+      "of",
+      "~'s (possessive particle)",
+      "(used after an attribute)",
+      "(used to form a nominal expression)",
+      "(used at the end of a declarative sentence for emphasis)"
+    ]
+  },
+  {
+    "id": 16,
+    "hanzi": "点",
+    "pinyin": "diǎn",
+    "translations": [
+      "point",
+      "dot",
+      "drop",
+      "speck",
+      "o'clock",
+      "point (in space or time)",
+      "to draw a dot",
+      "to check on a list",
+      "to choose",
+      "to order (food in a restaurant)",
+      "to touch briefly",
+      "to hint",
+      "to light",
+      "to ignite",
+      "to pour a liquid drop by drop",
+      "(old) one fifth of a two-hour watch 更[gēng]",
+      "dot stroke in Chinese characters",
+      "classifier for items"
+    ]
+  },
+  {
+    "id": 17,
+    "hanzi": "电脑",
+    "pinyin": "diàn nǎo",
+    "translations": [
+      "computer",
+      "CL:臺|台[tái]"
+    ]
+  },
+  {
+    "id": 18,
+    "hanzi": "电视",
+    "pinyin": "diàn shì",
+    "translations": [
+      "television",
+      "TV",
+      "CL:臺|台",
+      "個|个[gè]"
+    ]
+  },
+  {
+    "id": 19,
+    "hanzi": "电影",
+    "pinyin": "diàn yǐng",
+    "translations": [
+      "movie",
+      "film",
+      "CL:部",
+      "片",
+      "幕",
+      "場|场[chǎng]"
+    ]
+  },
+  {
+    "id": 20,
+    "hanzi": "东西",
+    "pinyin": "dōng xi",
+    "translations": [
+      "thing",
+      "stuff",
+      "person",
+      "CL:個|个",
+      "件[jiàn]"
+    ]
+  },
+  {
+    "id": 21,
+    "hanzi": "都",
+    "pinyin": "dōu",
+    "translations": [
+      "all",
+      "both",
+      "entirely",
+      "(used for emphasis) even",
+      "already",
+      "(not) at all"
+    ]
+  },
+  {
+    "id": 22,
+    "hanzi": "读",
+    "pinyin": "dú",
+    "translations": [
+      "to read",
+      "to study",
+      "reading of word (i.e. pronunciation)",
+      "similar to 拼音[pīn yīn]"
+    ]
+  },
+  {
+    "id": 23,
+    "hanzi": "对不起",
+    "pinyin": "duì bu qǐ",
+    "translations": [
+      "unworthy",
+      "to let down",
+      "I'm sorry",
+      "excuse me",
+      "pardon me",
+      "if you please",
+      "sorry? (please repeat)"
+    ]
+  },
+  {
+    "id": 24,
+    "hanzi": "多",
+    "pinyin": "duō",
+    "translations": [
+      "many",
+      "much",
+      "a lot of",
+      "numerous",
+      "more",
+      "in excess",
+      "how (to what extent)",
+      "multi-",
+      "Taiwan pr.  when it means \"how\""
+    ]
+  },
+  {
+    "id": 25,
+    "hanzi": "多少",
+    "pinyin": "duō shao",
+    "translations": [
+      "how much",
+      "how many",
+      "which (number)",
+      "as much as"
+    ]
+  },
+  {
+    "id": 26,
+    "hanzi": "儿子",
+    "pinyin": "ér zi",
+    "translations": [
+      "son"
+    ]
+  },
+  {
+    "id": 27,
+    "hanzi": "二",
+    "pinyin": "èr",
+    "translations": [
+      "two",
+      "2",
+      "stupid (Beijing dialect)"
+    ]
+  },
+  {
+    "id": 28,
+    "hanzi": "饭馆",
+    "pinyin": "fàn guǎn",
+    "translations": [
+      "restaurant",
+      "CL:家[jiā]"
+    ]
+  },
+  {
+    "id": 29,
+    "hanzi": "飞机",
+    "pinyin": "fēi jī",
+    "translations": [
+      "airplane",
+      "CL:架[jià]"
+    ]
+  },
+  {
+    "id": 30,
+    "hanzi": "分钟",
+    "pinyin": "fēn zhōng",
+    "translations": [
+      "minute"
+    ]
+  },
+  {
+    "id": 31,
+    "hanzi": "高兴",
+    "pinyin": "gāo xìng",
+    "translations": [
+      "happy",
+      "glad",
+      "willing (to do sth)",
+      "in a cheerful mood"
+    ]
+  },
+  {
+    "id": 32,
+    "hanzi": "个",
+    "pinyin": "gè",
+    "translations": [
+      "variant of 個|个[gè]"
+    ]
+  },
+  {
+    "id": 33,
+    "hanzi": "工作",
+    "pinyin": "gōng zuò",
+    "translations": [
+      "to work",
+      "(of a machine) to operate",
+      "job",
+      "work",
+      "task",
+      "CL:個|个",
+      "份",
+      "項|项[xiàng]"
+    ]
+  },
+  {
+    "id": 34,
+    "hanzi": "狗",
+    "pinyin": "gǒu",
+    "translations": [
+      "dog",
+      "CL:隻|只",
+      "條|条[tiáo]"
+    ]
+  },
+  {
+    "id": 35,
+    "hanzi": "汉语",
+    "pinyin": "Hàn yǔ",
+    "translations": [
+      "Chinese language",
+      "CL:門|门[mén]"
+    ]
+  },
+  {
+    "id": 36,
+    "hanzi": "好",
+    "pinyin": "hǎo",
+    "translations": [
+      "good",
+      "well",
+      "proper",
+      "good to",
+      "easy to",
+      "very",
+      "so",
+      "(suffix indicating completion or readiness)"
+    ]
+  },
+  {
+    "id": 37,
+    "hanzi": "喝",
+    "pinyin": "hē",
+    "translations": [
+      "to drink",
+      "My goodness!"
+    ]
+  },
+  {
+    "id": 38,
+    "hanzi": "和",
+    "pinyin": "hé",
+    "translations": [
+      "and",
+      "together with",
+      "with",
+      "sum",
+      "union",
+      "peace",
+      "harmony",
+      "Japanese related",
+      "Taiwan pr. [hàn]"
+    ]
+  },
+  {
+    "id": 39,
+    "hanzi": "很",
+    "pinyin": "hěn",
+    "translations": [
+      "(adverb of degree)",
+      "quite",
+      "very",
+      "awfully"
+    ]
+  },
+  {
+    "id": 40,
+    "hanzi": "后面",
+    "pinyin": "hòu mian",
+    "translations": [
+      "rear",
+      "back",
+      "behind",
+      "later",
+      "afterwards"
+    ]
+  },
+  {
+    "id": 41,
+    "hanzi": "回",
+    "pinyin": "huí",
+    "translations": [
+      "to curve",
+      "to return",
+      "to revolve"
+    ]
+  },
+  {
+    "id": 42,
+    "hanzi": "会",
+    "pinyin": "huì",
+    "translations": [
+      "can",
+      "be possible",
+      "be able to",
+      "will",
+      "be likely to",
+      "be sure to",
+      "to assemble",
+      "to meet",
+      "to gather",
+      "to see",
+      "union",
+      "group",
+      "association",
+      "CL:個|个[gè]",
+      "a moment (Taiwan pr. for this sense is )"
+    ]
+  },
+  {
+    "id": 43,
+    "hanzi": "火车站",
+    "pinyin": "huǒ chē zhàn",
+    "translations": [
+      "train station"
+    ]
+  },
+  {
+    "id": 44,
+    "hanzi": "几",
+    "pinyin": "jǐ",
+    "translations": [
+      "how much",
+      "how many",
+      "several",
+      "a few"
+    ]
+  },
+  {
+    "id": 45,
+    "hanzi": "家",
+    "pinyin": "jiā",
+    "translations": [
+      "home",
+      "family",
+      "classifier for families or businesses",
+      "refers to the philosophical schools of pre-Han China",
+      "noun suffix for specialists in some activity such as musician or revolutionary",
+      "corresponds to English -ist",
+      "-er",
+      "-ary or -ian",
+      "CL:個|个[gè]"
+    ]
+  },
+  {
+    "id": 46,
+    "hanzi": "叫",
+    "pinyin": "jiào",
+    "translations": [
+      "to shout",
+      "to call",
+      "to order",
+      "to ask",
+      "to be called",
+      "by (indicates agent in the passive mood)"
+    ]
+  },
+  {
+    "id": 47,
+    "hanzi": "今天",
+    "pinyin": "jīn tiān",
+    "translations": [
+      "today",
+      "at the present",
+      "now"
+    ]
+  },
+  {
+    "id": 48,
+    "hanzi": "九",
+    "pinyin": "jiǔ",
+    "translations": [
+      "nine",
+      "9"
+    ]
+  },
+  {
+    "id": 49,
+    "hanzi": "开",
+    "pinyin": "kāi",
+    "translations": [
+      "to open",
+      "to start",
+      "to turn on",
+      "to boil",
+      "to write out (a medical prescription)",
+      "to operate (vehicle)",
+      "abbr. for 開爾文|开尔文 degrees Kelvin"
+    ]
+  },
+  {
+    "id": 50,
+    "hanzi": "看",
+    "pinyin": "kàn",
+    "translations": [
+      "to see",
+      "to look at",
+      "to read",
+      "to watch",
+      "to consider",
+      "to regard as",
+      "to view as",
+      "to treat as",
+      "to judge",
+      "(after repeated verb) to give it a try",
+      "depending on (how you're judging)",
+      "to visit",
+      "to call on",
+      "to treat (an illness)",
+      "to look after",
+      "Watch out! (for a danger)"
+    ]
+  },
+  {
+    "id": 51,
+    "hanzi": "看见",
+    "pinyin": "kàn jiàn",
+    "translations": [
+      "to see",
+      "to catch sight of"
+    ]
+  },
+  {
+    "id": 52,
+    "hanzi": "块",
+    "pinyin": "kuài",
+    "translations": [
+      "lump (of earth)",
+      "chunk",
+      "piece",
+      "classifier for pieces of cloth",
+      "cake",
+      "soap etc",
+      "colloquial word for yuan (or other unit of currency such as Hong Kong or US dollar etc)",
+      "usually as 塊錢|块钱"
+    ]
+  },
+  {
+    "id": 53,
+    "hanzi": "来",
+    "pinyin": "lái",
+    "translations": [
+      "to come",
+      "to arrive",
+      "to come round",
+      "ever since",
+      "next"
+    ]
+  },
+  {
+    "id": 54,
+    "hanzi": "老师",
+    "pinyin": "lǎo shī",
+    "translations": [
+      "teacher",
+      "CL:個|个",
+      "位[wèi]"
+    ]
+  },
+  {
+    "id": 55,
+    "hanzi": "了",
+    "pinyin": "le",
+    "translations": [
+      "(modal particle intensifying preceding clause)",
+      "(completed action marker)"
+    ]
+  },
+  {
+    "id": 56,
+    "hanzi": "冷",
+    "pinyin": "lěng",
+    "translations": [
+      "cold"
+    ]
+  },
+  {
+    "id": 57,
+    "hanzi": "里",
+    "pinyin": "lǐ",
+    "translations": [
+      "li (Chinese mile)",
+      "500 meters (modern)",
+      "home",
+      "hometown",
+      "village",
+      "neighborhood",
+      "administrative unit"
+    ]
+  },
+  {
+    "id": 58,
+    "hanzi": "零",
+    "pinyin": "líng",
+    "translations": [
+      "zero",
+      "nought",
+      "zero sign",
+      "fractional",
+      "fragmentary",
+      "odd (of numbers)",
+      "(placed between two numbers to indicate a smaller quantity followed by a larger one)",
+      "fraction",
+      "(in mathematics) remainder (after division)",
+      "extra",
+      "to wither and fall",
+      "to wither"
+    ]
+  },
+  {
+    "id": 59,
+    "hanzi": "六",
+    "pinyin": "liù",
+    "translations": [
+      "six",
+      "6"
+    ]
+  },
+  {
+    "id": 60,
+    "hanzi": "妈妈",
+    "pinyin": "mā ma",
+    "translations": [
+      "mama",
+      "mommy",
+      "mother",
+      "CL:個|个",
+      "位[wèi]"
+    ]
+  },
+  {
+    "id": 61,
+    "hanzi": "吗",
+    "pinyin": "ma",
+    "translations": [
+      "(question tag)"
+    ]
+  },
+  {
+    "id": 62,
+    "hanzi": "买",
+    "pinyin": "mǎi",
+    "translations": [
+      "to buy",
+      "to purchase"
+    ]
+  },
+  {
+    "id": 63,
+    "hanzi": "猫",
+    "pinyin": "māo",
+    "translations": [
+      "cat",
+      "CL:隻|只[zhī]"
+    ]
+  },
+  {
+    "id": 64,
+    "hanzi": "没",
+    "pinyin": "méi",
+    "translations": [
+      "(negative prefix for verbs)",
+      "have not",
+      "not"
+    ]
+  },
+  {
+    "id": 65,
+    "hanzi": "没关系",
+    "pinyin": "méi guān xi",
+    "translations": [
+      "it doesn't matter"
+    ]
+  },
+  {
+    "id": 66,
+    "hanzi": "米饭",
+    "pinyin": "mǐ fàn",
+    "translations": [
+      "(cooked) rice"
+    ]
+  },
+  {
+    "id": 67,
+    "hanzi": "明天",
+    "pinyin": "míng tiān",
+    "translations": [
+      "tomorrow"
+    ]
+  },
+  {
+    "id": 68,
+    "hanzi": "名字",
+    "pinyin": "míng zi",
+    "translations": [
+      "name (of a person or thing)",
+      "CL:個|个[gè]"
+    ]
+  },
+  {
+    "id": 69,
+    "hanzi": "哪",
+    "pinyin": "nǎ",
+    "translations": [
+      "how",
+      "which"
+    ]
+  },
+  {
+    "id": 70,
+    "hanzi": "那",
+    "pinyin": "nà",
+    "translations": [
+      "that",
+      "those",
+      "then (in that case)",
+      "commonly pr.  before a classifier",
+      "esp. in Beijing"
+    ]
+  },
+  {
+    "id": 71,
+    "hanzi": "呢",
+    "pinyin": "ne",
+    "translations": [
+      "particle indicating that a previously asked question is to be applied to the preceding word (\"What about ...?\"",
+      "\"And ...?\")",
+      "particle for inquiring about location (\"Where is ...?\")",
+      "particle signaling a pause",
+      "to emphasize the preceding words and allow the listener time to take them on board (\"ok?\"",
+      "\"are you with me?\")",
+      "(at the end of a declarative sentence) particle indicating continuation of a state or action",
+      "particle indicating strong affirmation"
+    ]
+  },
+  {
+    "id": 72,
+    "hanzi": "能",
+    "pinyin": "néng",
+    "translations": [
+      "to be able to",
+      "to be capable of",
+      "ability",
+      "capability",
+      "able",
+      "capable",
+      "can possibly",
+      "(usually used in the negative) to have the possibility of"
+    ]
+  },
+  {
+    "id": 73,
+    "hanzi": "你",
+    "pinyin": "nǐ",
+    "translations": [
+      "you (informal",
+      "as opposed to courteous 您)"
+    ]
+  },
+  {
+    "id": 74,
+    "hanzi": "年",
+    "pinyin": "nián",
+    "translations": [
+      "year",
+      "CL:個|个[gè]"
+    ]
+  },
+  {
+    "id": 75,
+    "hanzi": "女儿",
+    "pinyin": "nǚ ér",
+    "translations": [
+      "daughter"
+    ]
+  },
+  {
+    "id": 76,
+    "hanzi": "朋友",
+    "pinyin": "péng you",
+    "translations": [
+      "friend",
+      "CL:個|个",
+      "位[wèi]"
+    ]
+  },
+  {
+    "id": 77,
+    "hanzi": "漂亮",
+    "pinyin": "piào liang",
+    "translations": [
+      "pretty",
+      "beautiful"
+    ]
+  },
+  {
+    "id": 78,
+    "hanzi": "苹果",
+    "pinyin": "píng guǒ",
+    "translations": [
+      "apple",
+      "CL:個|个",
+      "顆|颗[kē]"
+    ]
+  },
+  {
+    "id": 79,
+    "hanzi": "七",
+    "pinyin": "qī",
+    "translations": [
+      "seven",
+      "7"
+    ]
+  },
+  {
+    "id": 80,
+    "hanzi": "钱",
+    "pinyin": "qián",
+    "translations": [
+      "coin",
+      "money",
+      "CL:筆|笔[bǐ]",
+      "unit of weight",
+      "one tenth of a tael 兩|两[liǎng]"
+    ]
+  },
+  {
+    "id": 81,
+    "hanzi": "前面",
+    "pinyin": "qián miàn",
+    "translations": [
+      "ahead",
+      "in front",
+      "preceding",
+      "above"
+    ]
+  },
+  {
+    "id": 82,
+    "hanzi": "请",
+    "pinyin": "qǐng",
+    "translations": [
+      "to ask",
+      "to invite",
+      "please (do sth)",
+      "to treat (to a meal etc)",
+      "to request"
+    ]
+  },
+  {
+    "id": 83,
+    "hanzi": "去",
+    "pinyin": "qù",
+    "translations": [
+      "to go",
+      "to go to (a place)",
+      "to cause to go or send (sb)",
+      "to remove",
+      "to get rid of",
+      "(when used either before or after a verb) to go in order to do sth",
+      "to be apart from in space or time",
+      "(after a verb of motion indicates movement away from the speaker)",
+      "(used after certain verbs to indicate detachment or separation)",
+      "(of a time or an event etc) just passed or elapsed"
+    ]
+  },
+  {
+    "id": 84,
+    "hanzi": "热",
+    "pinyin": "rè",
+    "translations": [
+      "to warm up",
+      "to heat up",
+      "hot (of weather)",
+      "heat",
+      "fervent"
+    ]
+  },
+  {
+    "id": 85,
+    "hanzi": "人",
+    "pinyin": "rén",
+    "translations": [
+      "man",
+      "person",
+      "people",
+      "CL:個|个",
+      "位[wèi]"
+    ]
+  },
+  {
+    "id": 86,
+    "hanzi": "认识",
+    "pinyin": "rèn shi",
+    "translations": [
+      "to know",
+      "to recognize",
+      "to be familiar with",
+      "to get acquainted with sb",
+      "knowledge",
+      "understanding",
+      "awareness",
+      "cognition"
+    ]
+  },
+  {
+    "id": 87,
+    "hanzi": "日",
+    "pinyin": "rì",
+    "translations": [
+      "sun",
+      "day",
+      "date",
+      "day of the month",
+      "abbr. for 日本 Japan"
+    ]
+  },
+  {
+    "id": 88,
+    "hanzi": "三",
+    "pinyin": "sān",
+    "translations": [
+      "three",
+      "3"
+    ]
+  },
+  {
+    "id": 89,
+    "hanzi": "商店",
+    "pinyin": "shāng diàn",
+    "translations": [
+      "store",
+      "shop",
+      "CL:家",
+      "個|个[gè]"
+    ]
+  },
+  {
+    "id": 90,
+    "hanzi": "上",
+    "pinyin": "shàng",
+    "translations": [
+      "on top",
+      "upon",
+      "above",
+      "upper",
+      "previous",
+      "first (of multiple parts)",
+      "to climb",
+      "to get onto",
+      "to go up",
+      "to attend (class or university)"
+    ]
+  },
+  {
+    "id": 91,
+    "hanzi": "上午",
+    "pinyin": "shàng wǔ",
+    "translations": [
+      "morning",
+      "CL:個|个[gè]"
+    ]
+  },
+  {
+    "id": 92,
+    "hanzi": "少",
+    "pinyin": "shǎo",
+    "translations": [
+      "few",
+      "little",
+      "lack"
+    ]
+  },
+  {
+    "id": 93,
+    "hanzi": "谁",
+    "pinyin": "shéi",
+    "translations": [
+      "who",
+      "also pr. [shuí]"
+    ]
+  },
+  {
+    "id": 94,
+    "hanzi": "什么",
+    "pinyin": "shén me",
+    "translations": [
+      "what?",
+      "who?",
+      "something",
+      "anything"
+    ]
+  },
+  {
+    "id": 95,
+    "hanzi": "十",
+    "pinyin": "shí",
+    "translations": [
+      "ten",
+      "10"
+    ]
+  },
+  {
+    "id": 96,
+    "hanzi": "时候",
+    "pinyin": "shí hou",
+    "translations": [
+      "time",
+      "length of time",
+      "moment",
+      "period"
+    ]
+  },
+  {
+    "id": 97,
+    "hanzi": "是",
+    "pinyin": "shì",
+    "translations": [
+      "is",
+      "are",
+      "am",
+      "yes",
+      "to be"
+    ]
+  },
+  {
+    "id": 98,
+    "hanzi": "书",
+    "pinyin": "shū",
+    "translations": [
+      "book",
+      "letter",
+      "CL:本",
+      "冊|册",
+      "部[bù]",
+      "see also 書經|书经 Book of History"
+    ]
+  },
+  {
+    "id": 99,
+    "hanzi": "水",
+    "pinyin": "shuǐ",
+    "translations": [
+      "water",
+      "river",
+      "liquid",
+      "beverage",
+      "additional charges or income",
+      "(of clothes) classifier for number of washes"
+    ]
+  },
+  {
+    "id": 100,
+    "hanzi": "水果",
+    "pinyin": "shuǐ guǒ",
+    "translations": [
+      "fruit",
+      "CL:個|个[gè]"
+    ]
+  },
+  {
+    "id": 101,
+    "hanzi": "睡觉",
+    "pinyin": "shuì jiào",
+    "translations": [
+      "to go to bed",
+      "to sleep"
+    ]
+  },
+  {
+    "id": 102,
+    "hanzi": "说话",
+    "pinyin": "shuō huà",
+    "translations": [
+      "to speak",
+      "to say",
+      "to talk",
+      "to gossip",
+      "to tell stories",
+      "talk",
+      "word"
+    ]
+  },
+  {
+    "id": 103,
+    "hanzi": "四",
+    "pinyin": "sì",
+    "translations": [
+      "four",
+      "4"
+    ]
+  },
+  {
+    "id": 104,
+    "hanzi": "岁",
+    "pinyin": "suì",
+    "translations": [
+      "classifier for years (of age)",
+      "year",
+      "year (of crop harvests)"
+    ]
+  },
+  {
+    "id": 105,
+    "hanzi": "他",
+    "pinyin": "tā",
+    "translations": [
+      "he or him",
+      "(used for either sex when the sex is unknown or unimportant)",
+      "(used before sb's name for emphasis)",
+      "(used as a meaningless mock object)",
+      "other",
+      "another"
+    ]
+  },
+  {
+    "id": 106,
+    "hanzi": "她",
+    "pinyin": "tā",
+    "translations": [
+      "she"
+    ]
+  },
+  {
+    "id": 107,
+    "hanzi": "太",
+    "pinyin": "tài",
+    "translations": [
+      "highest",
+      "greatest",
+      "too (much)",
+      "very",
+      "extremely"
+    ]
+  },
+  {
+    "id": 108,
+    "hanzi": "天气",
+    "pinyin": "tiān qì",
+    "translations": [
+      "weather"
+    ]
+  },
+  {
+    "id": 109,
+    "hanzi": "听",
+    "pinyin": "tīng",
+    "translations": [
+      "to listen",
+      "to hear",
+      "to obey",
+      "a can (loanword from English \"tin\")",
+      "classifier for canned beverages"
+    ]
+  },
+  {
+    "id": 110,
+    "hanzi": "同学",
+    "pinyin": "tóng xué",
+    "translations": [
+      "to study at the same school",
+      "fellow student",
+      "classmate",
+      "CL:位",
+      "個|个[gè]"
+    ]
+  },
+  {
+    "id": 111,
+    "hanzi": "喂",
+    "pinyin": "wèi",
+    "translations": [
+      "to feed"
+    ]
+  },
+  {
+    "id": 112,
+    "hanzi": "我",
+    "pinyin": "wǒ",
+    "translations": [
+      "I",
+      "me",
+      "my"
+    ]
+  },
+  {
+    "id": 113,
+    "hanzi": "我们",
+    "pinyin": "wǒ men",
+    "translations": [
+      "we",
+      "us",
+      "ourselves",
+      "our"
+    ]
+  },
+  {
+    "id": 114,
+    "hanzi": "五",
+    "pinyin": "wǔ",
+    "translations": [
+      "five",
+      "5"
+    ]
+  },
+  {
+    "id": 115,
+    "hanzi": "喜欢",
+    "pinyin": "xǐ huan",
+    "translations": [
+      "to like",
+      "to be fond of"
+    ]
+  },
+  {
+    "id": 116,
+    "hanzi": "下",
+    "pinyin": "xià",
+    "translations": [
+      "down",
+      "downwards",
+      "below",
+      "lower",
+      "later",
+      "next (week etc)",
+      "second (of two parts)",
+      "to decline",
+      "to go down"
+    ]
+  },
+  {
+    "id": 117,
+    "hanzi": "下午",
+    "pinyin": "xià wǔ",
+    "translations": [
+      "afternoon",
+      "CL:個|个[gè]",
+      "p.m."
+    ]
+  },
+  {
+    "id": 118,
+    "hanzi": "下雨",
+    "pinyin": "xià yǔ",
+    "translations": [
+      "to rain",
+      "rainy"
+    ]
+  },
+  {
+    "id": 119,
+    "hanzi": "先生",
+    "pinyin": "xiān sheng",
+    "translations": [
+      "teacher",
+      "husband",
+      "doctor (topolect)",
+      "CL:位[wèi]"
+    ]
+  },
+  {
+    "id": 120,
+    "hanzi": "现在",
+    "pinyin": "xiàn zài",
+    "translations": [
+      "now",
+      "at present",
+      "at the moment",
+      "modern",
+      "current",
+      "nowadays"
+    ]
+  },
+  {
+    "id": 121,
+    "hanzi": "想",
+    "pinyin": "xiǎng",
+    "translations": [
+      "to think",
+      "to believe",
+      "to suppose",
+      "to wish",
+      "to want",
+      "to miss"
+    ]
+  },
+  {
+    "id": 122,
+    "hanzi": "小",
+    "pinyin": "xiǎo",
+    "translations": [
+      "small",
+      "tiny",
+      "few",
+      "young"
+    ]
+  },
+  {
+    "id": 123,
+    "hanzi": "小姐",
+    "pinyin": "xiǎo jie",
+    "translations": [
+      "young lady",
+      "miss",
+      "(slang) prostitute",
+      "CL:個|个",
+      "位[wèi]"
+    ]
+  },
+  {
+    "id": 124,
+    "hanzi": "些",
+    "pinyin": "xiē",
+    "translations": [
+      "some",
+      "few",
+      "several",
+      "measure word indicating a small amount or small number (greater than 1)"
+    ]
+  },
+  {
+    "id": 125,
+    "hanzi": "写",
+    "pinyin": "xiě",
+    "translations": [
+      "to write"
+    ]
+  },
+  {
+    "id": 126,
+    "hanzi": "谢谢",
+    "pinyin": "xiè xie",
+    "translations": [
+      "to thank",
+      "thanks"
+    ]
+  },
+  {
+    "id": 127,
+    "hanzi": "星期",
+    "pinyin": "xīng qī",
+    "translations": [
+      "week",
+      "CL:個|个[gè]",
+      "day of the week",
+      "Sunday"
+    ]
+  },
+  {
+    "id": 128,
+    "hanzi": "学生",
+    "pinyin": "xué sheng",
+    "translations": [
+      "student",
+      "schoolchild"
+    ]
+  },
+  {
+    "id": 129,
+    "hanzi": "学习",
+    "pinyin": "xué xí",
+    "translations": [
+      "to learn",
+      "to study"
+    ]
+  },
+  {
+    "id": 130,
+    "hanzi": "学校",
+    "pinyin": "xué xiào",
+    "translations": [
+      "school",
+      "CL:所[suǒ]"
+    ]
+  },
+  {
+    "id": 131,
+    "hanzi": "一",
+    "pinyin": "yī",
+    "translations": [
+      "one",
+      "1",
+      "single",
+      "a (article)",
+      "as soon as",
+      "entire",
+      "whole",
+      "all",
+      "throughout",
+      "\"one\" radical in Chinese characters (Kangxi radical 1)"
+    ]
+  },
+  {
+    "id": 132,
+    "hanzi": "衣服",
+    "pinyin": "yī fu",
+    "translations": [
+      "clothes",
+      "CL:件",
+      "套[tào]"
+    ]
+  },
+  {
+    "id": 133,
+    "hanzi": "医生",
+    "pinyin": "yī shēng",
+    "translations": [
+      "doctor",
+      "CL:個|个",
+      "位",
+      "名[míng]"
+    ]
+  },
+  {
+    "id": 134,
+    "hanzi": "医院",
+    "pinyin": "yī yuàn",
+    "translations": [
+      "hospital",
+      "CL:所",
+      "家",
+      "座[zuò]"
+    ]
+  },
+  {
+    "id": 135,
+    "hanzi": "椅子",
+    "pinyin": "yǐ zi",
+    "translations": [
+      "chair",
+      "CL:把",
+      "套[tào]"
+    ]
+  },
+  {
+    "id": 136,
+    "hanzi": "有",
+    "pinyin": "yǒu",
+    "translations": [
+      "to have",
+      "there is",
+      "there are",
+      "to exist",
+      "to be"
+    ]
+  },
+  {
+    "id": 137,
+    "hanzi": "月",
+    "pinyin": "yuè",
+    "translations": [
+      "moon",
+      "month",
+      "CL:個|个",
+      "輪|轮[lún]"
+    ]
+  },
+  {
+    "id": 138,
+    "hanzi": "在",
+    "pinyin": "zài",
+    "translations": [
+      "(located) at",
+      "(to be) in",
+      "to exist",
+      "in the middle of doing sth",
+      "(indicating an action in progress)"
+    ]
+  },
+  {
+    "id": 139,
+    "hanzi": "再见",
+    "pinyin": "zài jiàn",
+    "translations": [
+      "goodbye",
+      "see you again later"
+    ]
+  },
+  {
+    "id": 140,
+    "hanzi": "怎么",
+    "pinyin": "zěn me",
+    "translations": [
+      "variant of 怎麼|怎么[zěn me]"
+    ]
+  },
+  {
+    "id": 141,
+    "hanzi": "怎么样",
+    "pinyin": "zěn me yàng",
+    "translations": [
+      "how?",
+      "how about?",
+      "how was it?",
+      "how are things?"
+    ]
+  },
+  {
+    "id": 142,
+    "hanzi": "这",
+    "pinyin": "zhè",
+    "translations": [
+      "this",
+      "these",
+      "(commonly pr.  before a classifier",
+      "esp. in Beijing)"
+    ]
+  },
+  {
+    "id": 143,
+    "hanzi": "中国",
+    "pinyin": "Zhōng guó",
+    "translations": [
+      "China",
+      "Middle Kingdom"
+    ]
+  },
+  {
+    "id": 144,
+    "hanzi": "中午",
+    "pinyin": "zhōng wǔ",
+    "translations": [
+      "noon",
+      "midday",
+      "CL:個|个[gè]"
+    ]
+  },
+  {
+    "id": 145,
+    "hanzi": "住",
+    "pinyin": "zhù",
+    "translations": [
+      "to live",
+      "to dwell",
+      "to stay",
+      "to reside",
+      "to stop",
+      "(suffix indicating firmness",
+      "steadiness",
+      "or coming to a halt)"
+    ]
+  },
+  {
+    "id": 146,
+    "hanzi": "桌子",
+    "pinyin": "zhuō zi",
+    "translations": [
+      "table",
+      "desk",
+      "CL:張|张",
+      "套[tào]"
+    ]
+  },
+  {
+    "id": 147,
+    "hanzi": "字",
+    "pinyin": "zì",
+    "translations": [
+      "letter",
+      "symbol",
+      "character",
+      "word",
+      "CL:個|个[gè]",
+      "courtesy or style name traditionally given to males aged 20 in dynastic China"
+    ]
+  },
+  {
+    "id": 148,
+    "hanzi": "昨天",
+    "pinyin": "zuó tiān",
+    "translations": [
+      "yesterday"
+    ]
+  },
+  {
+    "id": 149,
+    "hanzi": "坐",
+    "pinyin": "zuò",
+    "translations": [
+      "to sit",
+      "to take a seat",
+      "to take (a bus",
+      "airplane etc)",
+      "to bear fruit",
+      "variant of 座[zuò]"
+    ]
+  },
+  {
+    "id": 150,
+    "hanzi": "做",
+    "pinyin": "zuò",
+    "translations": [
+      "to do",
+      "to make",
+      "to produce",
+      "to write",
+      "to compose",
+      "to act as",
+      "to engage in",
+      "to hold (a party)",
+      "to be",
+      "to become",
+      "to function (in some capacity)",
+      "to serve as",
+      "to be used for",
+      "to form (a bond or relationship)",
+      "to pretend",
+      "to feign",
+      "to act a part",
+      "to put on appearance"
+    ]
+  }
+]
